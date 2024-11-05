@@ -44,3 +44,6 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 #### Data Visualization
+
+![Revenue by Region Bar Chart](https://github.com/user-attachments/assets/075585b4-ad87-4c6a-8864-5a464ce17e35)
+
