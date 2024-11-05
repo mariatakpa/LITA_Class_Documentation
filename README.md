@@ -1,8 +1,22 @@
 # LITA_Class_Documentation
 
-### Project Title: Sales Data Analysis Project
+### Project Title: E commerce Sales Analysis
 
-#### Overview
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+ Data Analysis
+ 
+  [Data Visualization](#data-visualization)
+ 
+####  Project Overview
 ---
 The Data Analysis project aims to provide a comprehensive analysis of sales performance for a retail  store,aiming to identify trends , understand customer behavior, optimize inventory , and improve revenue. The insights derived will help the store make data-driven decisions, maximize sales, and increase profitability.
 
@@ -44,6 +58,15 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 #### Data Visualization
-
+---
+- Revenue by Region
+  
 ![Revenue by Region Bar Chart](https://github.com/user-attachments/assets/075585b4-ad87-4c6a-8864-5a464ce17e35)
 
+- Unit sold by Region
+  
+![Unit sold by Region Bar Chart](https://github.com/user-attachments/assets/e834636c-bcf6-42d6-a093-5e604ec2ccfe)
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
