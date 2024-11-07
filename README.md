@@ -67,6 +67,10 @@ WHERE CONDITION = TRUE
   
 ![Unit sold by Region Bar Chart](https://github.com/user-attachments/assets/e834636c-bcf6-42d6-a093-5e604ec2ccfe)
 
+
+![LITA_DB 1](https://github.com/user-attachments/assets/e726c667-4a6f-4f2b-b579-44572d06a733)
+
+
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
